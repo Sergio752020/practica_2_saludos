@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PRACTICA 2 SALUDO</string>
+
+    <string name="tv_titulo">ESCRIBE TU NOMBRE</string>
+    <string name="et_nombre">Escribe aquí tu nombre</string>
+    <string name="bt_saludar">PÚLSAME</string>
+    <string name="bt_iniciar">INICIAR</string>
+
+    <string name="tv_ejemplo">Esto es un texto de ejemplo</string>
+
+
+</resources>
